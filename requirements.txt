@@ -1,0 +1,1 @@
+codewars-test @ git+https://github.com/codewars/python-test-framework.git@3e2ceebd6e6eda7b5058792d1d23a48be8eefa6a
